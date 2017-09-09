@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiver.Lib.Zip", "Fiver.Lib.Zip\Fiver.Lib.Zip.csproj", "{63D42500-169E-4416-A3E2-0C5E25159E4F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiver.Lib.Zip.Client", "Fiver.Lib.Zip.Client\Fiver.Lib.Zip.Client.csproj", "{0B964C4C-F6BA-4428-A2BB-BB0223754451}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{63D42500-169E-4416-A3E2-0C5E25159E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63D42500-169E-4416-A3E2-0C5E25159E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63D42500-169E-4416-A3E2-0C5E25159E4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B964C4C-F6BA-4428-A2BB-BB0223754451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B964C4C-F6BA-4428-A2BB-BB0223754451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B964C4C-F6BA-4428-A2BB-BB0223754451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B964C4C-F6BA-4428-A2BB-BB0223754451}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
